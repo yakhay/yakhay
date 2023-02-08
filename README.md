@@ -1,4 +1,1 @@
-- 👋 Hi, I’m khay yassine
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer sicence at LEET 
-- 📫 Reach me out via my Email : khayyassine450@grmil.com
+[![yakhay's 42 stats](https://badge.mediaplus.ma/binary/yakhay)](https://github.com/oakoudad/badge42)
